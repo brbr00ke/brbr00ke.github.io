@@ -1,0 +1,16 @@
+div.a {
+    text-indent: 100px;
+}
+body{
+    background-color: #fbeee6;
+    background-image: url(graphics/waterlilies.jpg);
+    background-repeat: no-repeat;
+    font-size: 150%;
+    
+}
+a:visited{
+    color:floralwhite;
+}
+p{
+    text-indent: 100px;
+}
